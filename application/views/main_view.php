@@ -1,8 +1,9 @@
-<?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+<h1>Добро пожаловать!</h1>
+<p>
+    <img src="images/office-small.jpg" class="alignleft" />
+    <a href="/mvc-example.loc/www">Магма Company Inc.</a> - пространственные закономерности в
+    строении рельефа и чехла плиоцен-четвертичных отложений обусловлены тем,
+    что меандр слагает кристаллический топаз, где на поверхность выведены
+    кристаллические структуры фундамента.
+</p>
